@@ -1,0 +1,16 @@
+=== Neural Network Simulation ===
+Hidden Layers: 2
+Neurons per layer: 8
+
+=== FIRST FORWARD PASS ===
+
+=== FIRST FORWARD PASS RESULTS ===
+Total Output: 341.565
+f(x1) = 58504.7
+f(x2) = 58162.6
+
+=== SECOND FORWARD PASS RESULTS ===
+New Inputs: 58504.7, 58162.6
+Final Output Sum: 2.34979e+07
+Final f(x1) = 2.76076e+14
+Final f(x2) = 2.76076e+14
